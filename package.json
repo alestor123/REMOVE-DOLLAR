@@ -1,0 +1,19 @@
+{
+  "name": "remove-dollar",
+  "version": "1.0.0",
+  "description": "This is a simple code for removing dollar from cmd",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/alestor123/remove-dollar.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/alestor123/remove-dollar/issues"
+  },
+  "homepage": "https://gitlab.com/alestor123/remove-dollar#readme"
+}
