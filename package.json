@@ -8,12 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/alestor123/remove-dollar.git"
+    "url": "git+https://github.com/alestor123/remove-dollar.git"
   },
   "author": "Alestor Aldous",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/alestor123/remove-dollar/issues"
+    "url": "https://github.com/alestor123/remove-dollar/issues"
   },
-  "homepage": "https://gitlab.com/alestor123/remove-dollar#readme"
+  "homepage": "https://github.com/alestor123/remove-dollar#readme",
+  "dependencies": {}
 }
